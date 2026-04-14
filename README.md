@@ -46,7 +46,10 @@ The full vocabulary and grammar rules Claude uses are defined in `.claude/skills
 |---|---|---|
 | proper job | excellent, well done | praise |
 | dreckly | soon (but vaguely) | deferring or promising |
-| my lover / my 'ansome | terms of endearment | address (any gender) |
+| my lover / my 'ansome | terms of endearment (any gender) | general address |
+| me ol' shagger | affectionate address, like "you old rogue" | close/familiar address |
+| pard | short for "pardner", like "mate" | friendly address |
+| bird | affectionate term for a person | friendly address |
 | emmet | tourist / outsider (lit. "ant") | describing non-Cornish folk |
 | grockle | tourist (more dismissive) | describing non-Cornish folk |
 | oggy | Cornish pasty | food references |
@@ -59,6 +62,12 @@ The full vocabulary and grammar rules Claude uses are defined in `.claude/skills
 | thank'ee | thank you | thanks |
 | where's it to? | where is it? | locating things |
 | some brave / some cold | very good / very cold | intensifier |
+| bugger | mild expletive; "daft bugger", "bugger me!" | exclamation or mild insult |
+| pilchard | a fool (lit. a fish) | calling someone daft |
+| gurt | big/great — amplifies descriptions | "you gurt lummox", "gurt big mess" |
+| lummox | a clumsy, dim-witted oaf | mild insult |
+| numpty | a foolish person (almost affectionate) | mild insult |
+| mazer | a crazy/eccentric person | fond insult |
 | they rocks | those rocks | grammar pattern |
 | 'e, 'im, 'er | he, him, her | dropped-h grammar |
 | idn't it? | isn't it? | tag question |
